@@ -1,0 +1,16 @@
+F 100 100 100
+EA textures/bois4.xpm
+CT textures/espace.xpm
+C 190 ,190 190
+      R  800  800
+NO textures/wood2.xpm
+SO textures/wood.xpm
+P textures/woodporte.xpm
+WE textures/bois3.xpm
+     S textures/arbresprite.xpm
+
+   1
+  101
+ 10N01
+  101
+   1
